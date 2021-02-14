@@ -1,0 +1,26 @@
+{
+  "name": "my-team",
+  "version": "1.0.0",
+  "description": "This app is used to generate a webpage that displays a team's basic info",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benwade91/My-Team.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benwade91/My-Team/issues"
+  },
+  "homepage": "https://github.com/benwade91/My-Team#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "jest": "^26.6.3"
+  }
+}

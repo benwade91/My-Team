@@ -23,6 +23,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 
 ## Questions <a name="questions"/>
-Questions? Comments? Please Reach out to me by [Email](benn925@yahoo.com) or on [Github](github.com/benwade91).
+Questions? Comments? Please Reach out to me by [Email](mailto:benn925@yahoo.com) or on [Github](https://github.com/benwade91).
 
 
